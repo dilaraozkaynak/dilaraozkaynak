@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dilaraozkaynak&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraozkaynak&langs_count=5&theme=tokyonight)]()
-![](https://komarev.com/ghpvc/?username=your-github-dilaraozkaynak&color=green)
+
+![](https://komarev.com/ghpvc/?username=your-github-dilaraozkaynak&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
 
