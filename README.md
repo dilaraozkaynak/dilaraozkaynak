@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaraozkaynak&label=Profile%20views&color=0e75b6&style=flat" alt="dilaraozkaynak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilaraozkaynak" alt="dilaraozkaynak" /></a> </p>
-
 - 🔭 I’m currently working on **C# MVC**
 
 - 🌱 I’m currently learning **Java + React**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilaraozkaynak&show_icons=true&locale=en&layout=compact" alt="dilaraozkaynak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilaraozkaynak&show_icons=true&locale=en" alt="dilaraozkaynak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilaraozkaynak&" alt="dilaraozkaynak" /></p>
