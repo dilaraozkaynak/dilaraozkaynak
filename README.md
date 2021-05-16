@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C# MVC
 - 🌱 I’m currently learning Java + React
 - 📫 How to reach me: https://www.linkedin.com/in/dilaraozkaynak/
+ <a href=”https://www.linkedin.com/in/dilaraozkaynak/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dilaraozkaynak&count_private=true&theme=tokyonight&showicons=true)]()
 
