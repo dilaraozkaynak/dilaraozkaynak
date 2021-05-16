@@ -10,11 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/dilaraozkaynak/
 
 
- ![]<a href=”https://www.linkedin.com/in/dilaraozkaynak/">![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
- 
- <a href=”https://twitter.com/dilaraaozk">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
- 
- <a href=”https://www.instagram.com/dilaraaozk/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dilaraozkaynak&count_private=true&theme=tokyonight&showicons=true)]()
 
