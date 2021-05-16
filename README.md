@@ -1,8 +1,5 @@
 ### Hi there I'm Dilara 👋
 
-
-**dilaraozkaynak/dilaraozkaynak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on C# MVC
@@ -12,6 +9,9 @@ Here are some ideas to get you started:
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dilaraozkaynak&count_private=true&theme=tokyonight&showicons=true)]()
+
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/dilaraaozk"/>
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/dilaraozkaynak"/>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraozkaynak&langs_count=5&theme=tokyonight)]()
 
